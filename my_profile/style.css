@@ -2,12 +2,37 @@
 
 .h1{
     font-style: italic;
-    background-color: aqua;
+    text-align: center;
+
+}
+.h2{
+    font-style:italic;
 }
 
-
+.main{
+    text-align-last: center;
+}
 
 .icon {
     color: #7b9ebb;
     font-size: 18px;
+}
+.gmail{
+    text-align: left;
+    font-style: italic;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+.copyright{
+    text-align: center;
+}
+.Education{
+    font-style: italic;
+      font-weight: bold;
 }
